@@ -1,0 +1,5 @@
+com\medifeeds\register\controller\MedifeedsRegistrationController.class
+com\medifeeds\register\App.class
+com\medifeeds\register\MdifeedsRegistrationservice.class
+com\medifeeds\register\domain\User.class
+com\medifeeds\register\repo\UserRepository.class
